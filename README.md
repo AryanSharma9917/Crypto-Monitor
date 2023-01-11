@@ -36,5 +36,3 @@ Clean code with pre-commit hooks: [`flake8`](https://flake8.pycqa.org/en/latest/
 <br>
 `pre-commit run --all-files`
 
-### Runbook:
-https://thevickypedia.github.io/crypto-monitor/
