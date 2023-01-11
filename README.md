@@ -1,4 +1,4 @@
-# Cryptocurrency Monitor
+## Cryptocurrency Monitor
 Python scripts to monitor cryptocurrencies.
 - `yfinance` - Get currency information using yahoo finance [API](https://pypi.org/project/yfinance/)
 - `requests` - Get all cryptocurrencies from [yahoo finance](https://finance.yahoo.com/)
